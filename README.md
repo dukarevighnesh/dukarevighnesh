@@ -1,34 +1,61 @@
-<!-- Animated Header -->
+<!-- AI Animated Header -->
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Vighnesh%20Dukare&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
-</div>
 
-<!-- Typing Animation -->
-<div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=AI+%7C+ML+Engineering+Student;Python+Developer;Deep+Learning+Learner;Building+AI+in+Minecraft"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=300&text=Vighnesh%20Dukare&fontSize=55&color=0:0f2027,50:203a43,100:2c5364&stroke=00F7FF&animation=fadeIn"/>
+
 </div>
 
 ---
 
+<!-- AI Typing Animation -->
+
 <div align="center">
-<img height="160" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3500&pause=900&color=00F7FF&center=true&vCenter=true&width=700&lines=Artificial+Intelligence+Engineer;Machine+Learning+Developer;Deep+Learning+Explorer;Building+AI+Agents+in+Minecraft;Python+%7C+TensorFlow+%7C+Data+Science"/>
+
+</div>
+
+---
+
+<!-- AI Animation -->
+
+<div align="center">
+
+<img height="220" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif"/>
+
 </div>
 
 ---
 
 # 👨‍💻 About Me
 
-Hi 👋 I'm **Vighnesh Dukare** from **India**
+Hi 👋 I'm **Vighnesh Dukare** from **India 🇮🇳**
 
 🎓 **BE Artificial Intelligence & Machine Learning (2nd Year)**  
 
-🤖 Passionate about **AI, Machine Learning and intelligent systems**
+🤖 Passionate about **AI, Machine Learning, and Intelligent Systems**
 
 🔭 Currently working on **Training AI agents in Minecraft**
 
 📚 Currently learning **Deep Learning**
 
-⚡ In my free time I **code and build projects**
+⚡ In my free time I **build AI projects and experiment with code**
+
+---
+
+# 📬 Contact Me
+
+<div align="center">
+
+<a href="mailto:dukarevighnesh@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/vighnesh-dukare-687406309">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</div>
 
 ---
 
@@ -36,46 +63,34 @@ Hi 👋 I'm **Vighnesh Dukare** from **India**
 
 ### 🐍 Languages
 
-<div align="left">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
-
-</div>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45"/>
 
 ---
 
 ### 📚 Python Libraries
 
-<div align="left">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="45"/>
 <img width="12"/>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="45"/>
 <img width="12"/>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="40"/>
-
-</div>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="45"/>
 
 ---
 
-### ⚙️ Tools & Platforms
+### ⚙️ Tools
 
-<div align="left">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="45"/>
 <img width="12"/>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="45"/>
 <img width="12"/>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="45"/>
 <img width="12"/>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40"/>
-
-</div>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="45"/>
 
 ---
 
@@ -83,7 +98,7 @@ Hi 👋 I'm **Vighnesh Dukare** from **India**
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=dukarevighnesh&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=dukarevighnesh&theme=tokyonight"/>
 
 </div>
 
@@ -93,9 +108,9 @@ Hi 👋 I'm **Vighnesh Dukare** from **India**
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=dukarevighnesh&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=dukarevighnesh&show_icons=true&theme=tokyonight"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dukarevighnesh&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dukarevighnesh&layout=compact&theme=tokyonight"/>
 
 </div>
 
@@ -123,6 +138,6 @@ Hi 👋 I'm **Vighnesh Dukare** from **India**
 
 <div align="center">
 
-⭐ **Building intelligent systems with AI**
+⭐ **Building intelligent systems with Artificial Intelligence**
 
 </div>
