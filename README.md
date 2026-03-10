@@ -18,13 +18,13 @@
 
 # 👨‍💻 About Me
 
-Hi 👋 I'm **Vighnesh Dukare** from **India 🇮🇳**
+Hi 👋 I'm **Vighnesh Dukare** from **India**
 
 🎓 **BE Artificial Intelligence & Machine Learning (2nd Year)**  
 
 🤖 Passionate about **AI, Machine Learning and intelligent systems**
 
-🔭 Currently working on **training AI agents in Minecraft**
+🔭 Currently working on **Training AI agents in Minecraft**
 
 📚 Currently learning **Deep Learning**
 
