@@ -1,25 +1,30 @@
-<!-- Animated Header -->
+<!-- Header -->
+
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Vighnesh%20Dukare&fontSize=45&fontColor=ffffff&animation=fadeIn"/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=170&section=header&text=Vighnesh%20Dukare&fontSize=38&fontColor=ffffff"/>
+
 </div>
 
 <!-- Typing Animation -->
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3500&pause=900&color=00F7FF&center=true&vCenter=true&width=650&lines=AI+%26+ML+Student;Learning+Deep+Learning;Python+Developer;Exploring+AI+in+Minecraft"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3500&pause=900&color=00F7FF&center=true&vCenter=true&width=500&lines=AI+%26+ML+Student;Learning+Deep+Learning;Python+Developer;Exploring+AI+in+Minecraft"/>
 
 </div>
 
 ---
 
 <div align="center">
-<img height="200" src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif"/>
+
+<img height="200" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif"/>
+
 </div>
 
 ---
 
-# 👋 About Me
+## 👋 About Me
 
 Hi, I'm **Vighnesh Dukare** from **India 🇮🇳**
 
@@ -33,7 +38,7 @@ Hi, I'm **Vighnesh Dukare** from **India 🇮🇳**
 
 ---
 
-# 📬 Contact
+## 📬 Contact
 
 <div align="center">
 
@@ -49,81 +54,71 @@ Hi, I'm **Vighnesh Dukare** from **India 🇮🇳**
 
 ---
 
-# 🧠 Languages & Libraries
+## 💻 Languages & Libraries
 
 <div align="center">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="42"/>
 <img width="15"/>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="42"/>
 <img width="15"/>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="42"/>
 <img width="15"/>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="42"/>
 
 </div>
 
 ---
 
-# ⚙️ Tools I Use
+## ⚙️ Tools
 
 <div align="center">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="42"/>
 <img width="15"/>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="42"/>
 <img width="15"/>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="42"/>
 <img width="15"/>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="42"/>
 
 </div>
 
 ---
 
-# 🔥 GitHub Streak
+## 🔥 GitHub Streak
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=dukarevighnesh&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com?user=dukarevighnesh&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=dukarevighnesh&show_icons=true&theme=tokyonight"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=dukarevighnesh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dukarevighnesh&layout=compact&theme=tokyonight"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dukarevighnesh&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-# 📈 Activity Graph
+## 📈 Activity Graph
 
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=dukarevighnesh&theme=tokyo-night"/>
-
-</div>
-
----
-
-# 👀 Visitors
-
-<div align="center">
-
-<img src="https://visitor-badge.laobi.icu/badge?page_id=dukarevighnesh"/>
 
 </div>
 
