@@ -1,49 +1,39 @@
-<!-- AI Animated Header -->
+<!-- Animated Header -->
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Vighnesh%20Dukare&fontSize=45&fontColor=ffffff&animation=fadeIn"/>
+</div>
+
+<!-- Typing Animation -->
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=300&text=Vighnesh%20Dukare&fontSize=55&color=0:0f2027,50:203a43,100:2c5364&stroke=00F7FF&animation=fadeIn"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3500&pause=900&color=00F7FF&center=true&vCenter=true&width=650&lines=AI+%26+ML+Student;Learning+Deep+Learning;Python+Developer;Exploring+AI+in+Minecraft"/>
 
 </div>
 
 ---
 
-<!-- AI Typing Animation -->
-
 <div align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3500&pause=900&color=00F7FF&center=true&vCenter=true&width=700&lines=Artificial+Intelligence+Engineer;Machine+Learning+Developer;Deep+Learning+Explorer;Building+AI+Agents+in+Minecraft;Python+%7C+TensorFlow+%7C+Data+Science"/>
-
+<img height="200" src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif"/>
 </div>
 
 ---
 
-<!-- AI Animation -->
+# 👋 About Me
 
-<div align="center">
+Hi, I'm **Vighnesh Dukare** from **India 🇮🇳**
 
-<img height="220" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif"/>
+🎓 **BE Artificial Intelligence & Machine Learning (2nd Year Student)**  
 
-</div>
-
----
-
-# 👨‍💻 About Me
-
-Hi 👋 I'm **Vighnesh Dukare** from **India 🇮🇳**
-
-🎓 **BE Artificial Intelligence & Machine Learning (2nd Year)**  
-
-🤖 Passionate about **AI, Machine Learning, and Intelligent Systems**
-
-🔭 Currently working on **Training AI agents in Minecraft**
+🔭 Currently working on **training AI in Minecraft**
 
 📚 Currently learning **Deep Learning**
 
-⚡ In my free time I **build AI projects and experiment with code**
+⚡ In my free time I like **coding and experimenting with projects**
 
 ---
 
-# 📬 Contact Me
+# 📬 Contact
 
 <div align="center">
 
@@ -59,38 +49,41 @@ Hi 👋 I'm **Vighnesh Dukare** from **India 🇮🇳**
 
 ---
 
-# 🧠 Tech Stack
+# 🧠 Languages & Libraries
 
-### 🐍 Languages
+<div align="center">
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45"/>
-
----
-
-### 📚 Python Libraries
+<img width="15"/>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="45"/>
-<img width="12"/>
+<img width="15"/>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="45"/>
-<img width="12"/>
+<img width="15"/>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="45"/>
 
+</div>
+
 ---
 
-### ⚙️ Tools
+# ⚙️ Tools I Use
+
+<div align="center">
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="45"/>
-<img width="12"/>
+<img width="15"/>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="45"/>
-<img width="12"/>
+<img width="15"/>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="45"/>
-<img width="12"/>
+<img width="15"/>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="45"/>
+
+</div>
 
 ---
 
@@ -108,9 +101,9 @@ Hi 👋 I'm **Vighnesh Dukare** from **India 🇮🇳**
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=dukarevighnesh&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=dukarevighnesh&show_icons=true&theme=tokyonight"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dukarevighnesh&layout=compact&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dukarevighnesh&layout=compact&theme=tokyonight"/>
 
 </div>
 
@@ -126,7 +119,7 @@ Hi 👋 I'm **Vighnesh Dukare** from **India 🇮🇳**
 
 ---
 
-# 👀 Profile Visitors
+# 👀 Visitors
 
 <div align="center">
 
@@ -138,6 +131,6 @@ Hi 👋 I'm **Vighnesh Dukare** from **India 🇮🇳**
 
 <div align="center">
 
-⭐ **Building intelligent systems with Artificial Intelligence**
+⭐ Learning and building with AI
 
 </div>
