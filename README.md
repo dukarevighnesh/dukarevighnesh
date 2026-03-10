@@ -16,11 +16,11 @@
 
 ---
 
-<!-- Code Scrolling Animation -->
+<!-- Coding GIF -->
 
 <div align="center">
 
-<img height="200" src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif"/>
+<img height="200" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif"/>
 
 </div>
 
