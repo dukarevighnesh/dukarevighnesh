@@ -6,19 +6,21 @@
 
 </div>
 
-<!-- Typing Animation -->
+<!-- AIML Student Animation -->
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3500&pause=900&color=00F7FF&center=true&vCenter=true&width=500&lines=AI+%26+ML+Student;Learning+Deep+Learning;Python+Developer;Exploring+AI+in+Minecraft"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=300&lines=AIML+Student"/>
 
 </div>
 
 ---
 
+<!-- Code Scrolling Animation -->
+
 <div align="center">
 
-<img height="200" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif"/>
+<img height="200" src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif"/>
 
 </div>
 
@@ -106,7 +108,7 @@ Hi, I'm **Vighnesh Dukare** from **India 🇮🇳**
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=dukarevighnesh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=dukarevighnesh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dukarevighnesh&layout=compact&theme=tokyonight&hide_border=true"/>
 
