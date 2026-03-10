@@ -28,8 +28,6 @@
 
 ## 👋 About Me
 
-## 👋 About Me
-
 Hi, I'm **Vighnesh**
 
 • BE Artificial Intelligence & Machine Learning (2nd Year)  
